@@ -13,7 +13,6 @@ AWS lambda for python deploy script
  - AWS CLI [credentials Setup](https://docs.aws.amazon.com/ko_kr/cli/latest/userguide/cli-configure-files.html)
  - Credentails 의 사용된 iam에 lambda 권한을 가지고 있어야 합니다.
  - You must have lambda permission on the used iam of Credentails.
- - docker 
 
 
 ## 사용 방법
